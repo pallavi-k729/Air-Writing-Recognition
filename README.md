@@ -162,13 +162,13 @@ python app.py
 
 ## Results
 - Coarse Model
-- <img width="900" height="300" alt="coarse_plot" src="https://github.com/user-attachments/assets/baac3422-839b-477a-8a16-a480796ee4c1" />
+  <img width="900" height="300" alt="coarse_plot" src="https://github.com/user-attachments/assets/baac3422-839b-477a-8a16-a480796ee4c1" />
 <br>
 
 - Fine models
-- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/03dc1c68-b1a4-4713-bb46-7a89dd84078f" />
-- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/5fa74e3d-0224-46b2-8ad5-1707b5008b8d" />
-- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/cf7d69ea-3028-4b06-95c4-f871933526cb" />
-- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/9fc68790-a1cd-4aea-b470-04541bf0b2e9" />
-- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/c3978aa6-f625-408a-b6b5-65a9e1c216ff" />
-- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/ade5791f-f8de-4b7f-a38c-b1dee2b5f596" />
+  <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/03dc1c68-b1a4-4713-bb46-7a89dd84078f" />
+  <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/5fa74e3d-0224-46b2-8ad5-1707b5008b8d" />
+  <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/cf7d69ea-3028-4b06-95c4-f871933526cb" />
+  <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/9fc68790-a1cd-4aea-b470-04541bf0b2e9" />
+  <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/c3978aa6-f625-408a-b6b5-65a9e1c216ff" />
+  <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/ade5791f-f8de-4b7f-a38c-b1dee2b5f596" />
