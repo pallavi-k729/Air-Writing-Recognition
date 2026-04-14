@@ -5,12 +5,13 @@ This repository presents a **Real-Time Air Writing Recognition System** based on
 The system enables users to **write words and draw doodles in the air using hand gestures**, captured via a webcam & no physical tools required.
 
 It recognizes:
-- 📝 **49 predefined words**
-- 🎨 **Multiple doodles (gesture-based drawings)**
+- **49 predefined words**
+- **Multiple doodles (gesture-based drawings)**
+<br>
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - Real-time air-writing using webcam
 - Fusion-based deep learning model for improved accuracy
 - Recognizes **49 words + doodles**
@@ -23,16 +24,18 @@ It recognizes:
   - Direction
   - Time frames
 - Reduces Character Error Rate (CER)
+<br>
 
 ---
 
-## 🧠 Fusion Model Architecture
+## Fusion Model Architecture
 
 ### 🔹 Stage 1: Coarse Model (CNN)
 - Lightweight CNN model
 - Performs **initial classification** based on similar patterns, repeated sequence, etc.
 - Filters input into **broad categories**
 - Reduces search space for fine model
+<br>
 
 ---
 
@@ -53,15 +56,17 @@ It recognizes:
 
 - **Dense + Softmax**
   - Final classification into **49 words / doodles**
+<br>
 
 ---
 
-### 🔄 Why Fusion?
+### Why Fusion?
 - Faster inference (coarse filtering)
 - Higher accuracy (fine-grained attention-based model)
 - Switching between Doodles & Words models
 
 ---
+<br>
 
 ## 📊 Dataset
 
@@ -79,8 +84,9 @@ It recognizes:
 - Integrated into same pipeline
 
 ---
+<br>
 
-## 🖐️ Real-Time Recognition Pipeline
+## Real-Time Recognition Pipeline
 
 1. Webcam captures hand movement  
 2. **MediaPipe** detects and tracks index finger  
@@ -92,6 +98,7 @@ It recognizes:
 8. Output displayed in real time  
 
 ---
+<br>
 
 ## 🛠️ Tech Stack
 - Python  
@@ -102,9 +109,54 @@ It recognizes:
 - Matplotlib  
 
 ---
+<br>
 
 ## ▶️ How to Run
 
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+### 2️⃣ Train the Model
+```bash
+python train_coarse.py
+python train_grps.py
+```
+### 3️⃣ Run Real-Time Air Writing
+```bash
+python app.py
+```
+<br>
+
+## 🔮 Future Work
+
+- Multilingual support
+- VR / AR system integration
+- Improved robustness to noisy backgrounds
+
+<br>
+
+
+## 🌍 Applications
+
+- 📊 Password writing (keylogging prevention)
+- 🏥 Healthcare (sterile interaction)
+- ♿ Assistive technology for mobility-impaired users
+- 🏭 Industrial & agricultural environments
+- 🎓 Education in rural and resource-constrained areas
+- 🕶️ AR / VR interfaces
+
+<br>
+
+---
+
+<br>
+
+## 📸 Screenshots
+
+
+
+---
+
+
+## Results
