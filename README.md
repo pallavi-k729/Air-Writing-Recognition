@@ -1,4 +1,4 @@
-# ✨ Real-Time Air Writing Recognition
+<img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/bf355510-be53-4256-b1d8-ec3c9f2f5339" /># Real-Time Air Writing Recognition
 
 This repository presents a **Real-Time Air Writing Recognition System** based on a **Fusion Architecture** that combines **Coarse Classification (CNN)** and **Fine Classification (CNN + BiLSTM + Attention)**.
 
@@ -26,7 +26,7 @@ It recognizes:
 - Reduces Character Error Rate (CER)
 <br>
 
----
+
 
 ## Fusion Model Architecture
 
@@ -37,7 +37,7 @@ It recognizes:
 - Reduces search space for fine model
 <br>
 
----
+
 
 ### 🔹 Stage 2: Fine Model (CNN + BiLSTM + Attention)
 
@@ -58,7 +58,7 @@ It recognizes:
   - Final classification into **49 words / doodles**
 <br>
 
----
+
 
 ### Why Fusion?
 - Faster inference (coarse filtering)
@@ -77,7 +77,7 @@ It recognizes:
   - Normalized sequences
   - Fixed-size inputs (64X64)
 
----
+
 
 ### Doodle Dataset
 - Kaggle dataset with doodle drawings
@@ -154,9 +154,21 @@ python app.py
 
 ## 📸 Screenshots
 
+<img width="1264" height="1002" alt="image" src="https://github.com/user-attachments/assets/bc74b9ea-72b7-498a-8d9c-647685125592" />
+<img width="1135" height="823" alt="image" src="https://github.com/user-attachments/assets/0327096e-ca3f-4e30-9d09-eedc4407e9de" />
 
 
----
+<br>
 
 
 ## Results
+- Coarse Model
+- <img width="1200" height="500" alt="coarse_plot" src="https://github.com/user-attachments/assets/baac3422-839b-477a-8a16-a480796ee4c1" />
+
+- Fine models
+- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/03dc1c68-b1a4-4713-bb46-7a89dd84078f" />
+- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/5fa74e3d-0224-46b2-8ad5-1707b5008b8d" />
+- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/cf7d69ea-3028-4b06-95c4-f871933526cb" />
+- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/9fc68790-a1cd-4aea-b470-04541bf0b2e9" />
+- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/c3978aa6-f625-408a-b6b5-65a9e1c216ff" />
+- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/ade5791f-f8de-4b7f-a38c-b1dee2b5f596" />
