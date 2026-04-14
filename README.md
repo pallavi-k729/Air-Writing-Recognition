@@ -150,8 +150,8 @@ python app.py
 
 ## 📸 Screenshots
 
-<img width="1264" height="1002" alt="image" src="https://github.com/user-attachments/assets/bc74b9ea-72b7-498a-8d9c-647685125592" />
-<img width="1135" height="823" alt="image" src="https://github.com/user-attachments/assets/0327096e-ca3f-4e30-9d09-eedc4407e9de" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc74b9ea-72b7-498a-8d9c-647685125592" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0327096e-ca3f-4e30-9d09-eedc4407e9de" />
 
 
 <br>
@@ -163,9 +163,9 @@ python app.py
 <br>
 
 - Fine models
-- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/03dc1c68-b1a4-4713-bb46-7a89dd84078f" />
-- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/5fa74e3d-0224-46b2-8ad5-1707b5008b8d" />
-- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/cf7d69ea-3028-4b06-95c4-f871933526cb" />
-- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/9fc68790-a1cd-4aea-b470-04541bf0b2e9" />
-- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/c3978aa6-f625-408a-b6b5-65a9e1c216ff" />
-- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/ade5791f-f8de-4b7f-a38c-b1dee2b5f596" />
+- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/03dc1c68-b1a4-4713-bb46-7a89dd84078f" />
+- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/5fa74e3d-0224-46b2-8ad5-1707b5008b8d" />
+- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/cf7d69ea-3028-4b06-95c4-f871933526cb" />
+- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/9fc68790-a1cd-4aea-b470-04541bf0b2e9" />
+- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/c3978aa6-f625-408a-b6b5-65a9e1c216ff" />
+- <img width="900" height="300" alt="plot" src="https://github.com/user-attachments/assets/ade5791f-f8de-4b7f-a38c-b1dee2b5f596" />
