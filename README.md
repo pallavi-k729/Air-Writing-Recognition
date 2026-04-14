@@ -80,6 +80,9 @@ It recognizes:
 
 ### Doodle Dataset
 - Kaggle dataset with doodle drawings
+  ```bash
+  https://www.kaggle.com/datasets/linhlthk19/doodle
+  ```
 - Integrated into same pipeline
 
 <br>
