@@ -1,4 +1,4 @@
-<img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/bf355510-be53-4256-b1d8-ec3c9f2f5339" /># Real-Time Air Writing Recognition
+# Real-Time Air Writing Recognition
 
 This repository presents a **Real-Time Air Writing Recognition System** based on a **Fusion Architecture** that combines **Coarse Classification (CNN)** and **Fine Classification (CNN + BiLSTM + Attention)**.
 
