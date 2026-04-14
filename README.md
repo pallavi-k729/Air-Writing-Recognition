@@ -9,7 +9,7 @@ It recognizes:
 - **Multiple doodles (gesture-based drawings)**
 <br>
 
----
+
 
 ## Key Features
 - Real-time air-writing using webcam
@@ -64,8 +64,7 @@ It recognizes:
 - Faster inference (coarse filtering)
 - Higher accuracy (fine-grained attention-based model)
 - Switching between Doodles & Words models
-
----
+<br>
 <br>
 
 ## 📊 Dataset
@@ -83,7 +82,6 @@ It recognizes:
 - Kaggle dataset with doodle drawings
 - Integrated into same pipeline
 
----
 <br>
 
 ## Real-Time Recognition Pipeline
@@ -97,7 +95,6 @@ It recognizes:
 7. **Fine model refines prediction using Attention**  
 8. Output displayed in real time  
 
----
 <br>
 
 ## 🛠️ Tech Stack
@@ -108,7 +105,6 @@ It recognizes:
 - NumPy  
 - Matplotlib  
 
----
 <br>
 
 ## ▶️ How to Run
@@ -163,12 +159,13 @@ python app.py
 
 ## Results
 - Coarse Model
-- <img width="1200" height="500" alt="coarse_plot" src="https://github.com/user-attachments/assets/baac3422-839b-477a-8a16-a480796ee4c1" />
+- <img width="900" height="300" alt="coarse_plot" src="https://github.com/user-attachments/assets/baac3422-839b-477a-8a16-a480796ee4c1" />
+<br>
 
 - Fine models
-- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/03dc1c68-b1a4-4713-bb46-7a89dd84078f" />
-- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/5fa74e3d-0224-46b2-8ad5-1707b5008b8d" />
-- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/cf7d69ea-3028-4b06-95c4-f871933526cb" />
-- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/9fc68790-a1cd-4aea-b470-04541bf0b2e9" />
-- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/c3978aa6-f625-408a-b6b5-65a9e1c216ff" />
-- <img width="1200" height="500" alt="plot" src="https://github.com/user-attachments/assets/ade5791f-f8de-4b7f-a38c-b1dee2b5f596" />
+- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/03dc1c68-b1a4-4713-bb46-7a89dd84078f" />
+- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/5fa74e3d-0224-46b2-8ad5-1707b5008b8d" />
+- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/cf7d69ea-3028-4b06-95c4-f871933526cb" />
+- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/9fc68790-a1cd-4aea-b470-04541bf0b2e9" />
+- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/c3978aa6-f625-408a-b6b5-65a9e1c216ff" />
+- <img width="900" height="400" alt="plot" src="https://github.com/user-attachments/assets/ade5791f-f8de-4b7f-a38c-b1dee2b5f596" />
