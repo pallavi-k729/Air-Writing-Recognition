@@ -123,7 +123,8 @@ python train_grps.py
 ```
 ### 3️⃣ Run Real-Time Air Writing
 ```bash
-python app.py
+python app1.py  # for only word recognition
+python app_final.py  # for both words & doodles
 ```
 <br>
 
