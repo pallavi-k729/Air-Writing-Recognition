@@ -30,6 +30,9 @@ It recognizes:
 
 ## Fusion Model Architecture
 
+<img width="600" height="300" alt="Screenshot 2026-04-16 110410" src="https://github.com/user-attachments/assets/4a471526-8d4d-432b-9dde-d98f152b3939" />
+
+
 ### 🔹 Stage 1: Coarse Model (CNN)
 - Lightweight CNN model
 - Performs **initial classification** based on similar patterns, repeated sequence, etc.
